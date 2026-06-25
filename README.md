@@ -47,7 +47,7 @@ class Student:
 s1 = Student()
 
 # 2. Explicitly invoke the method to pass and bind data
-s1.get_details(1, "Abhi", "BTECH", 40)
+s1.get_details(1, "Pavni", "BTECH", 40)
 
 # 3. Print the results
 s1.show_details()
